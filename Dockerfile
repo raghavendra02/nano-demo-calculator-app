@@ -8,4 +8,4 @@ RUN npm install
 
 EXPOSE 8080
 
-ENTRYPOINT ["node", "server.js"]
+ENTRYPOINT ["node", "server.js"]    
